@@ -1,0 +1,22 @@
+{
+  "name": "electron-first-steps",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "auto-launch": "^5.0.1",
+    "electron-osx-appearance": "^0.1.1",
+    "iconv-lite": "^0.4.13",
+    "jschardet": "^1.4.1",
+    "marked": "^0.3.6",
+    "three": "^0.81.2"
+  },
+  "devDependencies": {},
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daisuke Nishimura",
+  "license": "ISC"
+}
